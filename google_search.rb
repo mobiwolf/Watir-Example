@@ -10,7 +10,7 @@
 # Test will search Google for the "pickaxe" Ruby book.
 #-------------------------------------------------------------#
 
-# the Watir controller
+# the Watir controller 默认用的firefox
 require "watir-webdriver"
 
 # set a variable
