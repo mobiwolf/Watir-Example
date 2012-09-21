@@ -3,7 +3,6 @@ require "safariwatir"
 
 Test_site = "http://www.guoshi.com"
 brower = Watir::Safari.new
-
 puts "进入果实网首页"
 brower.goto Test_site
 puts "在搜索框中输入   '老师'  "
